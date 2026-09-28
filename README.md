@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Zamiira Ahmett! 👋
 
-<!--
-**zamiira-Abdi67/zamiira-Abdi67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Junior Software Developer** dedicated to building clean, efficient, and user-friendly web applications. I enjoy solving problems across the full stack, from crafting smooth user interfaces to designing robust database structures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 💼 Looking for new opportunities as a **Junior Full-Stack / Frontend / Backend Developer**
+- 🌱 Constantly learning and expanding my technical toolkit
+- 💬 Ask me about building dynamic interfaces with **React** or managing relational databases with **PostgreSQL**
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+#### **Frontend**
+- **Languages:** HTML5, CSS3, Vanilla JavaScript (ES6+)
+- **Frameworks & Libraries:** React.js
+
+#### **Backend & Databases**
+- **Runtime Environment:** Node.js (Express.js)
+- **Database Management:** PostgreSQL
+
+
